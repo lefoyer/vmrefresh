@@ -1,4 +1,4 @@
-rememberme
+vmrefresh
 ===================
 
 Roundcube v1.0 plugin vmrefresh: Refresh count virtual mail boxes after move or delete message in real mail moxes.
