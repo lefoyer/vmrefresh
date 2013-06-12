@@ -1,0 +1,6 @@
+<?php
+
+// Virtual mail boxes
+$rcmail_config['vmrefresh_mailboxes'] = array('All mail');
+
+?>
